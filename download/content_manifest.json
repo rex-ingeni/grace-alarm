@@ -1,0 +1,675 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-06-27",
+  "delivery": "remote-config-manifest",
+  "backgrounds": [
+    {
+      "id": "bg_001",
+      "title": {
+        "ko": "배경 001",
+        "en": "Background 001"
+      },
+      "thumbnailUrl": "https://rex-ingeni.github.io/grace-alarm/download/bg/thumbs/b001.png",
+      "imageAssetPath": "backgrounds/full/b001.png",
+      "imageDownloadUrl": "https://rex-ingeni.github.io/grace-alarm/download/bg/full/b001.png",
+      "requiresPurchase": true,
+      "enabled": true
+    },
+    {
+      "id": "bg_002",
+      "title": {
+        "ko": "배경 002",
+        "en": "Background 002"
+      },
+      "thumbnailUrl": "https://rex-ingeni.github.io/grace-alarm/download/bg/thumbs/b002.png",
+      "imageAssetPath": "backgrounds/full/b002.png",
+      "imageDownloadUrl": "https://rex-ingeni.github.io/grace-alarm/download/bg/full/b002.png",
+      "requiresPurchase": true,
+      "enabled": true
+    },
+    {
+      "id": "bg_003",
+      "title": {
+        "ko": "배경 003",
+        "en": "Background 003"
+      },
+      "thumbnailUrl": "https://rex-ingeni.github.io/grace-alarm/download/bg/thumbs/b003.png",
+      "imageAssetPath": "backgrounds/full/b003.png",
+      "imageDownloadUrl": "https://rex-ingeni.github.io/grace-alarm/download/bg/full/b003.png",
+      "requiresPurchase": true,
+      "enabled": true
+    },
+    {
+      "id": "bg_004",
+      "title": {
+        "ko": "배경 004",
+        "en": "Background 004"
+      },
+      "thumbnailUrl": "https://rex-ingeni.github.io/grace-alarm/download/bg/thumbs/b004.png",
+      "imageAssetPath": "backgrounds/full/b004.png",
+      "imageDownloadUrl": "https://rex-ingeni.github.io/grace-alarm/download/bg/full/b004.png",
+      "requiresPurchase": true,
+      "enabled": true
+    },
+    {
+      "id": "bg_005",
+      "title": {
+        "ko": "배경 005",
+        "en": "Background 005"
+      },
+      "thumbnailUrl": "https://rex-ingeni.github.io/grace-alarm/download/bg/thumbs/b005.png",
+      "imageAssetPath": "backgrounds/full/b005.png",
+      "imageDownloadUrl": "https://rex-ingeni.github.io/grace-alarm/download/bg/full/b005.png",
+      "requiresPurchase": true,
+      "enabled": true
+    },
+    {
+      "id": "bg_006",
+      "title": {
+        "ko": "배경 006",
+        "en": "Background 006"
+      },
+      "thumbnailUrl": "https://rex-ingeni.github.io/grace-alarm/download/bg/thumbs/b006.png",
+      "imageAssetPath": "backgrounds/full/b006.png",
+      "imageDownloadUrl": "https://rex-ingeni.github.io/grace-alarm/download/bg/full/b006.png",
+      "requiresPurchase": true,
+      "enabled": true
+    },
+    {
+      "id": "bg_007",
+      "title": {
+        "ko": "배경 007",
+        "en": "Background 007"
+      },
+      "thumbnailUrl": "https://rex-ingeni.github.io/grace-alarm/download/bg/thumbs/b007.png",
+      "imageAssetPath": "backgrounds/full/b007.png",
+      "imageDownloadUrl": "https://rex-ingeni.github.io/grace-alarm/download/bg/full/b007.png",
+      "requiresPurchase": true,
+      "enabled": true
+    },
+    {
+      "id": "bg_008",
+      "title": {
+        "ko": "배경 008",
+        "en": "Background 008"
+      },
+      "thumbnailUrl": "https://rex-ingeni.github.io/grace-alarm/download/bg/thumbs/b008.png",
+      "imageAssetPath": "backgrounds/full/b008.png",
+      "imageDownloadUrl": "https://rex-ingeni.github.io/grace-alarm/download/bg/full/b008.png",
+      "requiresPurchase": true,
+      "enabled": true
+    },
+    {
+      "id": "bg_009",
+      "title": {
+        "ko": "배경 009",
+        "en": "Background 009"
+      },
+      "thumbnailUrl": "https://rex-ingeni.github.io/grace-alarm/download/bg/thumbs/b009.png",
+      "imageAssetPath": "backgrounds/full/b009.png",
+      "imageDownloadUrl": "https://rex-ingeni.github.io/grace-alarm/download/bg/full/b009.png",
+      "requiresPurchase": true,
+      "enabled": true
+    },
+    {
+      "id": "bg_010",
+      "title": {
+        "ko": "배경 010",
+        "en": "Background 010"
+      },
+      "thumbnailUrl": "https://rex-ingeni.github.io/grace-alarm/download/bg/thumbs/b010.png",
+      "imageAssetPath": "backgrounds/full/b010.png",
+      "imageDownloadUrl": "https://rex-ingeni.github.io/grace-alarm/download/bg/full/b010.png",
+      "requiresPurchase": true,
+      "enabled": true
+    },
+    {
+      "id": "bg_011",
+      "title": {
+        "ko": "배경 011",
+        "en": "Background 011"
+      },
+      "thumbnailUrl": "https://rex-ingeni.github.io/grace-alarm/download/bg/thumbs/b011.png",
+      "imageAssetPath": "backgrounds/full/b011.png",
+      "imageDownloadUrl": "https://rex-ingeni.github.io/grace-alarm/download/bg/full/b011.png",
+      "requiresPurchase": true,
+      "enabled": true
+    },
+    {
+      "id": "bg_012",
+      "title": {
+        "ko": "배경 012",
+        "en": "Background 012"
+      },
+      "thumbnailUrl": "https://rex-ingeni.github.io/grace-alarm/download/bg/thumbs/b012.png",
+      "imageAssetPath": "backgrounds/full/b012.png",
+      "imageDownloadUrl": "https://rex-ingeni.github.io/grace-alarm/download/bg/full/b012.png",
+      "requiresPurchase": true,
+      "enabled": true
+    },
+    {
+      "id": "bg_013",
+      "title": {
+        "ko": "배경 013",
+        "en": "Background 013"
+      },
+      "thumbnailUrl": "https://rex-ingeni.github.io/grace-alarm/download/bg/thumbs/b013.png",
+      "imageAssetPath": "backgrounds/full/b013.png",
+      "imageDownloadUrl": "https://rex-ingeni.github.io/grace-alarm/download/bg/full/b013.png",
+      "requiresPurchase": true,
+      "enabled": true
+    },
+    {
+      "id": "bg_014",
+      "title": {
+        "ko": "배경 014",
+        "en": "Background 014"
+      },
+      "thumbnailUrl": "https://rex-ingeni.github.io/grace-alarm/download/bg/thumbs/b014.png",
+      "imageAssetPath": "backgrounds/full/b014.png",
+      "imageDownloadUrl": "https://rex-ingeni.github.io/grace-alarm/download/bg/full/b014.png",
+      "requiresPurchase": true,
+      "enabled": true
+    },
+    {
+      "id": "bg_015",
+      "title": {
+        "ko": "배경 015",
+        "en": "Background 015"
+      },
+      "thumbnailUrl": "https://rex-ingeni.github.io/grace-alarm/download/bg/thumbs/b015.png",
+      "imageAssetPath": "backgrounds/full/b015.png",
+      "imageDownloadUrl": "https://rex-ingeni.github.io/grace-alarm/download/bg/full/b015.png",
+      "requiresPurchase": true,
+      "enabled": true
+    },
+    {
+      "id": "bg_016",
+      "title": {
+        "ko": "배경 016",
+        "en": "Background 016"
+      },
+      "thumbnailUrl": "https://rex-ingeni.github.io/grace-alarm/download/bg/thumbs/b016.png",
+      "imageAssetPath": "backgrounds/full/b016.png",
+      "imageDownloadUrl": "https://rex-ingeni.github.io/grace-alarm/download/bg/full/b016.png",
+      "requiresPurchase": true,
+      "enabled": true
+    },
+    {
+      "id": "bg_017",
+      "title": {
+        "ko": "배경 017",
+        "en": "Background 017"
+      },
+      "thumbnailUrl": "https://rex-ingeni.github.io/grace-alarm/download/bg/thumbs/b017.png",
+      "imageAssetPath": "backgrounds/full/b017.png",
+      "imageDownloadUrl": "https://rex-ingeni.github.io/grace-alarm/download/bg/full/b017.png",
+      "requiresPurchase": true,
+      "enabled": true
+    },
+    {
+      "id": "bg_018",
+      "title": {
+        "ko": "배경 018",
+        "en": "Background 018"
+      },
+      "thumbnailUrl": "https://rex-ingeni.github.io/grace-alarm/download/bg/thumbs/b018.png",
+      "imageAssetPath": "backgrounds/full/b018.png",
+      "imageDownloadUrl": "https://rex-ingeni.github.io/grace-alarm/download/bg/full/b018.png",
+      "requiresPurchase": true,
+      "enabled": true
+    },
+    {
+      "id": "bg_019",
+      "title": {
+        "ko": "배경 019",
+        "en": "Background 019"
+      },
+      "thumbnailUrl": "https://rex-ingeni.github.io/grace-alarm/download/bg/thumbs/b019.png",
+      "imageAssetPath": "backgrounds/full/b019.png",
+      "imageDownloadUrl": "https://rex-ingeni.github.io/grace-alarm/download/bg/full/b019.png",
+      "requiresPurchase": true,
+      "enabled": true
+    },
+    {
+      "id": "bg_020",
+      "title": {
+        "ko": "배경 020",
+        "en": "Background 020"
+      },
+      "thumbnailUrl": "https://rex-ingeni.github.io/grace-alarm/download/bg/thumbs/b020.png",
+      "imageAssetPath": "backgrounds/full/b020.png",
+      "imageDownloadUrl": "https://rex-ingeni.github.io/grace-alarm/download/bg/full/b020.png",
+      "requiresPurchase": true,
+      "enabled": true
+    },
+    {
+      "id": "bg_021",
+      "title": {
+        "ko": "배경 021",
+        "en": "Background 021"
+      },
+      "thumbnailUrl": "https://rex-ingeni.github.io/grace-alarm/download/bg/thumbs/b021.png",
+      "imageAssetPath": "backgrounds/full/b021.png",
+      "imageDownloadUrl": "https://rex-ingeni.github.io/grace-alarm/download/bg/full/b021.png",
+      "requiresPurchase": true,
+      "enabled": true
+    },
+    {
+      "id": "bg_022",
+      "title": {
+        "ko": "배경 022",
+        "en": "Background 022"
+      },
+      "thumbnailUrl": "https://rex-ingeni.github.io/grace-alarm/download/bg/thumbs/b022.png",
+      "imageAssetPath": "backgrounds/full/b022.png",
+      "imageDownloadUrl": "https://rex-ingeni.github.io/grace-alarm/download/bg/full/b022.png",
+      "requiresPurchase": true,
+      "enabled": true
+    },
+    {
+      "id": "bg_023",
+      "title": {
+        "ko": "배경 023",
+        "en": "Background 023"
+      },
+      "thumbnailUrl": "https://rex-ingeni.github.io/grace-alarm/download/bg/thumbs/b023.png",
+      "imageAssetPath": "backgrounds/full/b023.png",
+      "imageDownloadUrl": "https://rex-ingeni.github.io/grace-alarm/download/bg/full/b023.png",
+      "requiresPurchase": true,
+      "enabled": true
+    },
+    {
+      "id": "bg_024",
+      "title": {
+        "ko": "배경 024",
+        "en": "Background 024"
+      },
+      "thumbnailUrl": "https://rex-ingeni.github.io/grace-alarm/download/bg/thumbs/b024.png",
+      "imageAssetPath": "backgrounds/full/b024.png",
+      "imageDownloadUrl": "https://rex-ingeni.github.io/grace-alarm/download/bg/full/b024.png",
+      "requiresPurchase": true,
+      "enabled": true
+    },
+    {
+      "id": "bg_025",
+      "title": {
+        "ko": "배경 025",
+        "en": "Background 025"
+      },
+      "thumbnailUrl": "https://rex-ingeni.github.io/grace-alarm/download/bg/thumbs/b025.png",
+      "imageAssetPath": "backgrounds/full/b025.png",
+      "imageDownloadUrl": "https://rex-ingeni.github.io/grace-alarm/download/bg/full/b025.png",
+      "requiresPurchase": true,
+      "enabled": true
+    },
+    {
+      "id": "bg_026",
+      "title": {
+        "ko": "배경 026",
+        "en": "Background 026"
+      },
+      "thumbnailUrl": "https://rex-ingeni.github.io/grace-alarm/download/bg/thumbs/b026.png",
+      "imageAssetPath": "backgrounds/full/b026.png",
+      "imageDownloadUrl": "https://rex-ingeni.github.io/grace-alarm/download/bg/full/b026.png",
+      "requiresPurchase": true,
+      "enabled": true
+    },
+    {
+      "id": "bg_027",
+      "title": {
+        "ko": "배경 027",
+        "en": "Background 027"
+      },
+      "thumbnailUrl": "https://rex-ingeni.github.io/grace-alarm/download/bg/thumbs/b027.png",
+      "imageAssetPath": "backgrounds/full/b027.png",
+      "imageDownloadUrl": "https://rex-ingeni.github.io/grace-alarm/download/bg/full/b027.png",
+      "requiresPurchase": true,
+      "enabled": true
+    },
+    {
+      "id": "bg_028",
+      "title": {
+        "ko": "배경 028",
+        "en": "Background 028"
+      },
+      "thumbnailUrl": "https://rex-ingeni.github.io/grace-alarm/download/bg/thumbs/b028.png",
+      "imageAssetPath": "backgrounds/full/b028.png",
+      "imageDownloadUrl": "https://rex-ingeni.github.io/grace-alarm/download/bg/full/b028.png",
+      "requiresPurchase": true,
+      "enabled": true
+    },
+    {
+      "id": "bg_029",
+      "title": {
+        "ko": "배경 029",
+        "en": "Background 029"
+      },
+      "thumbnailUrl": "https://rex-ingeni.github.io/grace-alarm/download/bg/thumbs/b029.png",
+      "imageAssetPath": "backgrounds/full/b029.png",
+      "imageDownloadUrl": "https://rex-ingeni.github.io/grace-alarm/download/bg/full/b029.png",
+      "requiresPurchase": true,
+      "enabled": true
+    },
+    {
+      "id": "bg_030",
+      "title": {
+        "ko": "배경 030",
+        "en": "Background 030"
+      },
+      "thumbnailUrl": "https://rex-ingeni.github.io/grace-alarm/download/bg/thumbs/b030.png",
+      "imageAssetPath": "backgrounds/full/b030.png",
+      "imageDownloadUrl": "https://rex-ingeni.github.io/grace-alarm/download/bg/full/b030.png",
+      "requiresPurchase": true,
+      "enabled": true
+    },
+    {
+      "id": "bg_031",
+      "title": {
+        "ko": "배경 031",
+        "en": "Background 031"
+      },
+      "thumbnailUrl": "https://rex-ingeni.github.io/grace-alarm/download/bg/thumbs/b031.png",
+      "imageAssetPath": "backgrounds/full/b031.png",
+      "imageDownloadUrl": "https://rex-ingeni.github.io/grace-alarm/download/bg/full/b031.png",
+      "requiresPurchase": true,
+      "enabled": true
+    },
+    {
+      "id": "bg_032",
+      "title": {
+        "ko": "배경 032",
+        "en": "Background 032"
+      },
+      "thumbnailUrl": "https://rex-ingeni.github.io/grace-alarm/download/bg/thumbs/b032.png",
+      "imageAssetPath": "backgrounds/full/b032.png",
+      "imageDownloadUrl": "https://rex-ingeni.github.io/grace-alarm/download/bg/full/b032.png",
+      "requiresPurchase": true,
+      "enabled": true
+    },
+    {
+      "id": "bg_033",
+      "title": {
+        "ko": "배경 033",
+        "en": "Background 033"
+      },
+      "thumbnailUrl": "https://rex-ingeni.github.io/grace-alarm/download/bg/thumbs/b033.png",
+      "imageAssetPath": "backgrounds/full/b033.png",
+      "imageDownloadUrl": "https://rex-ingeni.github.io/grace-alarm/download/bg/full/b033.png",
+      "requiresPurchase": true,
+      "enabled": true
+    },
+    {
+      "id": "bg_034",
+      "title": {
+        "ko": "배경 034",
+        "en": "Background 034"
+      },
+      "thumbnailUrl": "https://rex-ingeni.github.io/grace-alarm/download/bg/thumbs/b034.png",
+      "imageAssetPath": "backgrounds/full/b034.png",
+      "imageDownloadUrl": "https://rex-ingeni.github.io/grace-alarm/download/bg/full/b034.png",
+      "requiresPurchase": true,
+      "enabled": true
+    },
+    {
+      "id": "bg_035",
+      "title": {
+        "ko": "배경 035",
+        "en": "Background 035"
+      },
+      "thumbnailUrl": "https://rex-ingeni.github.io/grace-alarm/download/bg/thumbs/b035.png",
+      "imageAssetPath": "backgrounds/full/b035.png",
+      "imageDownloadUrl": "https://rex-ingeni.github.io/grace-alarm/download/bg/full/b035.png",
+      "requiresPurchase": true,
+      "enabled": true
+    },
+    {
+      "id": "bg_036",
+      "title": {
+        "ko": "배경 036",
+        "en": "Background 036"
+      },
+      "thumbnailUrl": "https://rex-ingeni.github.io/grace-alarm/download/bg/thumbs/b036.png",
+      "imageAssetPath": "backgrounds/full/b036.png",
+      "imageDownloadUrl": "https://rex-ingeni.github.io/grace-alarm/download/bg/full/b036.png",
+      "requiresPurchase": true,
+      "enabled": true
+    },
+    {
+      "id": "bg_037",
+      "title": {
+        "ko": "배경 037",
+        "en": "Background 037"
+      },
+      "thumbnailUrl": "https://rex-ingeni.github.io/grace-alarm/download/bg/thumbs/b037.png",
+      "imageAssetPath": "backgrounds/full/b037.png",
+      "imageDownloadUrl": "https://rex-ingeni.github.io/grace-alarm/download/bg/full/b037.png",
+      "requiresPurchase": true,
+      "enabled": true
+    },
+    {
+      "id": "bg_038",
+      "title": {
+        "ko": "배경 038",
+        "en": "Background 038"
+      },
+      "thumbnailUrl": "https://rex-ingeni.github.io/grace-alarm/download/bg/thumbs/b038.png",
+      "imageAssetPath": "backgrounds/full/b038.png",
+      "imageDownloadUrl": "https://rex-ingeni.github.io/grace-alarm/download/bg/full/b038.png",
+      "requiresPurchase": true,
+      "enabled": true
+    },
+    {
+      "id": "bg_039",
+      "title": {
+        "ko": "배경 039",
+        "en": "Background 039"
+      },
+      "thumbnailUrl": "https://rex-ingeni.github.io/grace-alarm/download/bg/thumbs/b039.png",
+      "imageAssetPath": "backgrounds/full/b039.png",
+      "imageDownloadUrl": "https://rex-ingeni.github.io/grace-alarm/download/bg/full/b039.png",
+      "requiresPurchase": true,
+      "enabled": true
+    },
+    {
+      "id": "bg_040",
+      "title": {
+        "ko": "배경 040",
+        "en": "Background 040"
+      },
+      "thumbnailUrl": "https://rex-ingeni.github.io/grace-alarm/download/bg/thumbs/b040.png",
+      "imageAssetPath": "backgrounds/full/b040.png",
+      "imageDownloadUrl": "https://rex-ingeni.github.io/grace-alarm/download/bg/full/b040.png",
+      "requiresPurchase": true,
+      "enabled": true
+    },
+    {
+      "id": "bg_041",
+      "title": {
+        "ko": "배경 041",
+        "en": "Background 041"
+      },
+      "thumbnailUrl": "https://rex-ingeni.github.io/grace-alarm/download/bg/thumbs/b041.png",
+      "imageAssetPath": "backgrounds/full/b041.png",
+      "imageDownloadUrl": "https://rex-ingeni.github.io/grace-alarm/download/bg/full/b041.png",
+      "requiresPurchase": true,
+      "enabled": true
+    },
+    {
+      "id": "bg_042",
+      "title": {
+        "ko": "배경 042",
+        "en": "Background 042"
+      },
+      "thumbnailUrl": "https://rex-ingeni.github.io/grace-alarm/download/bg/thumbs/b042.png",
+      "imageAssetPath": "backgrounds/full/b042.png",
+      "imageDownloadUrl": "https://rex-ingeni.github.io/grace-alarm/download/bg/full/b042.png",
+      "requiresPurchase": true,
+      "enabled": true
+    },
+    {
+      "id": "bg_043",
+      "title": {
+        "ko": "배경 043",
+        "en": "Background 043"
+      },
+      "thumbnailUrl": "https://rex-ingeni.github.io/grace-alarm/download/bg/thumbs/b043.png",
+      "imageAssetPath": "backgrounds/full/b043.png",
+      "imageDownloadUrl": "https://rex-ingeni.github.io/grace-alarm/download/bg/full/b043.png",
+      "requiresPurchase": true,
+      "enabled": true
+    },
+    {
+      "id": "bg_044",
+      "title": {
+        "ko": "배경 044",
+        "en": "Background 044"
+      },
+      "thumbnailUrl": "https://rex-ingeni.github.io/grace-alarm/download/bg/thumbs/b044.png",
+      "imageAssetPath": "backgrounds/full/b044.png",
+      "imageDownloadUrl": "https://rex-ingeni.github.io/grace-alarm/download/bg/full/b044.png",
+      "requiresPurchase": true,
+      "enabled": true
+    },
+    {
+      "id": "bg_045",
+      "title": {
+        "ko": "배경 045",
+        "en": "Background 045"
+      },
+      "thumbnailUrl": "https://rex-ingeni.github.io/grace-alarm/download/bg/thumbs/b045.png",
+      "imageAssetPath": "backgrounds/full/b045.png",
+      "imageDownloadUrl": "https://rex-ingeni.github.io/grace-alarm/download/bg/full/b045.png",
+      "requiresPurchase": true,
+      "enabled": true
+    },
+    {
+      "id": "bg_046",
+      "title": {
+        "ko": "배경 046",
+        "en": "Background 046"
+      },
+      "thumbnailUrl": "https://rex-ingeni.github.io/grace-alarm/download/bg/thumbs/b046.png",
+      "imageAssetPath": "backgrounds/full/b046.png",
+      "imageDownloadUrl": "https://rex-ingeni.github.io/grace-alarm/download/bg/full/b046.png",
+      "requiresPurchase": true,
+      "enabled": true
+    },
+    {
+      "id": "bg_047",
+      "title": {
+        "ko": "배경 047",
+        "en": "Background 047"
+      },
+      "thumbnailUrl": "https://rex-ingeni.github.io/grace-alarm/download/bg/thumbs/b047.png",
+      "imageAssetPath": "backgrounds/full/b047.png",
+      "imageDownloadUrl": "https://rex-ingeni.github.io/grace-alarm/download/bg/full/b047.png",
+      "requiresPurchase": true,
+      "enabled": true
+    },
+    {
+      "id": "bg_048",
+      "title": {
+        "ko": "배경 048",
+        "en": "Background 048"
+      },
+      "thumbnailUrl": "https://rex-ingeni.github.io/grace-alarm/download/bg/thumbs/b048.png",
+      "imageAssetPath": "backgrounds/full/b048.png",
+      "imageDownloadUrl": "https://rex-ingeni.github.io/grace-alarm/download/bg/full/b048.png",
+      "requiresPurchase": true,
+      "enabled": true
+    },
+    {
+      "id": "bg_049",
+      "title": {
+        "ko": "배경 049",
+        "en": "Background 049"
+      },
+      "thumbnailUrl": "https://rex-ingeni.github.io/grace-alarm/download/bg/thumbs/b049.png",
+      "imageAssetPath": "backgrounds/full/b049.png",
+      "imageDownloadUrl": "https://rex-ingeni.github.io/grace-alarm/download/bg/full/b049.png",
+      "requiresPurchase": true,
+      "enabled": true
+    },
+    {
+      "id": "bg_050",
+      "title": {
+        "ko": "배경 050",
+        "en": "Background 050"
+      },
+      "thumbnailUrl": "https://rex-ingeni.github.io/grace-alarm/download/bg/thumbs/b050.png",
+      "imageAssetPath": "backgrounds/full/b050.png",
+      "imageDownloadUrl": "https://rex-ingeni.github.io/grace-alarm/download/bg/full/b050.png",
+      "requiresPurchase": true,
+      "enabled": true
+    },
+    {
+      "id": "bg_051",
+      "title": {
+        "ko": "배경 051",
+        "en": "Background 051"
+      },
+      "thumbnailUrl": "https://rex-ingeni.github.io/grace-alarm/download/bg/thumbs/b051.png",
+      "imageAssetPath": "backgrounds/full/b051.png",
+      "imageDownloadUrl": "https://rex-ingeni.github.io/grace-alarm/download/bg/full/b051.png",
+      "requiresPurchase": true,
+      "enabled": true
+    },
+    {
+      "id": "bg_052",
+      "title": {
+        "ko": "배경 052",
+        "en": "Background 052"
+      },
+      "thumbnailUrl": "https://rex-ingeni.github.io/grace-alarm/download/bg/thumbs/b052.png",
+      "imageAssetPath": "backgrounds/full/b052.png",
+      "imageDownloadUrl": "https://rex-ingeni.github.io/grace-alarm/download/bg/full/b052.png",
+      "requiresPurchase": true,
+      "enabled": true
+    },
+    {
+      "id": "bg_053",
+      "title": {
+        "ko": "배경 053",
+        "en": "Background 053"
+      },
+      "thumbnailUrl": "https://rex-ingeni.github.io/grace-alarm/download/bg/thumbs/b053.png",
+      "imageAssetPath": "backgrounds/full/b053.png",
+      "imageDownloadUrl": "https://rex-ingeni.github.io/grace-alarm/download/bg/full/b053.png",
+      "requiresPurchase": true,
+      "enabled": true
+    },
+    {
+      "id": "bg_054",
+      "title": {
+        "ko": "배경 054",
+        "en": "Background 054"
+      },
+      "thumbnailUrl": "https://rex-ingeni.github.io/grace-alarm/download/bg/thumbs/b054.png",
+      "imageAssetPath": "backgrounds/full/b054.png",
+      "imageDownloadUrl": "https://rex-ingeni.github.io/grace-alarm/download/bg/full/b054.png",
+      "requiresPurchase": true,
+      "enabled": true
+    }
+  ],
+  "chants": [
+    {
+      "id": "c094",
+      "assetPath": "chants/c094.mp3",
+      "enabled": true,
+      "requiresPurchase": true
+    },
+    {
+      "id": "c210",
+      "assetPath": "chants/c210.mp3",
+      "enabled": true,
+      "requiresPurchase": true
+    },
+    {
+      "id": "c438",
+      "assetPath": "chants/c438.mp3",
+      "enabled": true,
+      "requiresPurchase": true
+    }
+  ]
+}
